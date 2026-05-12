@@ -20,7 +20,7 @@ This project goes further and answers 3 critical business questions:
 2. **How much revenue is at risk?** — Total revenue lost broken down by state, contract, internet type
 3. **Who is about to churn next?** — An early warning system that flags current active customers before they leave
 
-> 💡 This is not a tutorial copy. The unique angle of combining **Revenue at Risk + Early Warning Intelligence** makes this project stand out from standard churn dashboards.
+> 💡 The unique angle of combining **Revenue at Risk + Early Warning Intelligence** makes this project stand out from standard churn dashboards.
 
 ---
 
@@ -508,7 +508,3 @@ This project was built as a data analyst portfolio project targeting roles in te
 - Business thinking — translating raw data into actionable recommendations
 
 ---
-
-⭐ If you found this project helpful, please give it a star!
-
-📬 Feel free to connect on LinkedIn for questions or feedback!
