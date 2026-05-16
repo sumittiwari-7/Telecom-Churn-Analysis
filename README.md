@@ -1,7 +1,7 @@
 # 📊 Telecom Customer Churn Analysis
 ### Revenue at Risk & Early Warning Intelligence Dashboard
 
-![Dashboard](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![Dashboard](page1_executive_summary.png)
 ![Database](https://img.shields.io/badge/Database-PostgreSQL-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-green)
 ![Domain](https://img.shields.io/badge/Domain-Telecom-orange)
