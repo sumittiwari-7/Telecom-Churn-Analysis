@@ -1,7 +1,7 @@
 # 📊 Telecom Customer Churn Analysis
 ### Revenue at Risk & Early Warning Intelligence Dashboard
 
-![Dashboard](page1_executive_summary.png)
+![Dashboard](https://img.shields.io/badge/Tool-Power%20BI-yellow)
 ![Database](https://img.shields.io/badge/Database-PostgreSQL-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-green)
 ![Domain](https://img.shields.io/badge/Domain-Telecom-orange)
@@ -411,6 +411,7 @@ ORDER BY Total_Customers DESC;
 ## 📈 Power BI Dashboard — 3 Pages
 
 ### Page 1 — Executive Summary
+![Executive Summary](screenshots/page1_executive_summary.png)
 | KPI | Value |
 |-----|-------|
 | Total Customers | 6,418 |
@@ -422,6 +423,7 @@ Visuals: Churn by contract, donut chart by internet type, top churn reasons bar 
 Slicers: State, Gender
 
 ### Page 2 — Revenue at Risk
+![Revenue at Risk](screenshots/page2_revenue_at_risk.png)
 | KPI | Value |
 |-----|-------|
 | Total Revenue Lost | 19.42M |
@@ -432,6 +434,7 @@ Visuals: Revenue by state, revenue by contract type, revenue by internet type
 Slicers: State, Internet Type
 
 ### Page 3 — Early Warning
+![Early Warning](screenshots/page3_early_warning.png)
 | KPI | Value |
 |-----|-------|
 | At Risk Customers | 4,300+ |
