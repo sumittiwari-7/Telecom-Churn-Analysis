@@ -411,7 +411,7 @@ ORDER BY Total_Customers DESC;
 ## 📈 Power BI Dashboard — 3 Pages
 
 ### Page 1 — Executive Summary
-![Executive Summary](screenshots/page1_executive_summary.png)
+![Executive Summary](page1_executive_summary.png)
 | KPI | Value |
 |-----|-------|
 | Total Customers | 6,418 |
@@ -423,7 +423,7 @@ Visuals: Churn by contract, donut chart by internet type, top churn reasons bar 
 Slicers: State, Gender
 
 ### Page 2 — Revenue at Risk
-![Revenue at Risk](screenshots/page2_revenue_at_risk.png)
+![Revenue at Risk](page2_revenue_at_risk.png)
 | KPI | Value |
 |-----|-------|
 | Total Revenue Lost | 19.42M |
@@ -434,7 +434,7 @@ Visuals: Revenue by state, revenue by contract type, revenue by internet type
 Slicers: State, Internet Type
 
 ### Page 3 — Early Warning
-![Early Warning](screenshots/page3_early_warning.png)
+![Early Warning](page3_early_warning.png)
 | KPI | Value |
 |-----|-------|
 | At Risk Customers | 4,300+ |
